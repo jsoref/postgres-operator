@@ -81,7 +81,6 @@
 \.zip$
 ^\.github/actions/spelling/
 ^\Q.github/workflows/spelling.yml\E$
-^\Qconfig/crd/bases/postgres-operator.crunchydata.com_postgresclusters.yaml\E$
 ^\Qtesting/kuttl/e2e-other/exporter-standby/files/cluster-certs.yaml\E$
 ^\Qtesting/kuttl/e2e/exporter-tls/files/exporter-tls-certs.yaml\E$
 ^\Qtesting/kuttl/e2e/streaming-standby/00--secrets.yaml\E$
